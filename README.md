@@ -89,7 +89,7 @@ Here are some ideas to get you started:
   </tr>
 </table>
 
-<!-- <p align="center" width="100%">
+<p align="center" width="100%">
   <img src="https://github-readme-stats.vercel.app/api?username=ShuninYu&show_icons=true&theme=radical&layout=compact&&&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" >
 </p>
 <p align="center" width="100%">
@@ -97,4 +97,4 @@ Here are some ideas to get you started:
 </p>
 <p align="center" width="100%">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShuninYu&theme=radical">
-</p> -->
+</p>

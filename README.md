@@ -66,29 +66,6 @@ Here are some ideas to get you started:
   <img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&center=true&vCenter=true&multiline=true&lines=I'm+currently+learning;Unity+%2F+HTML+%2F+CSS" width="460" height="80"></a>
 </p>
 
-
-
-<table align="center" width="100%" >
-  <tr>
-    <td align="center">
-    <div style="color: #e7e7e7; font-weight: bold; font-size: 40px">
-      My Statistics
-    </div>
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=ShuninYu&count_private=true&show_icons=true&theme=radical&layout=compact&title_color=007bff&text_color=&icon_color=&bg_color=" >
-    </td>
-  </tr>
-   <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShuninYu&langs_count=5&hide=go,html,css,tex&theme=radical&layout=compact">
-      </td>
-      <td align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShuninYu&theme=radical">
-      </td>
-  </tr>
-</table>
-
 <p align="center" width="100%">
   <img src="https://github-readme-stats.vercel.app/api?username=ShuninYu&show_icons=true&theme=radical&layout=compact&&&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" >
 </p>

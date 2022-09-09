@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 - 👋 Hi, I’m @ShuninYu
 
 [My Blog](https://blog.shuninyu.fun)
+
 [My Website](https://www.shuninyu.fun)
 ---
 

@@ -23,10 +23,9 @@ Here are some ideas to get you started:
 
 ---
 - 👋 Hi, I’m @ShuninYu
-- 👀 I’m interested in Painting(I'm very good at manga/sketch)/Art design/Viedo edit/Gaming(also game development/desing)
-- 🌱 I’m currently learning C#/Unity/AE/Ai/~~Figma~~(Not for me right now)
-- 💞️ I’m looking to collaborate on Web desing
-- 📫 How to reach me: will be added later
+
+[My Blog](https://blog.shuninyu.fun)
+[My Website](https://www.shuninyu.fun)
 ---
 
 <div align="center">

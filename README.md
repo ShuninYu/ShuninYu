@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 [My Website](https://www.shuninyu.fun)
 ---
 
+<!--
 <div align="center">
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/parrots/pythonparrot.gif" width="25" height="25"/>
@@ -57,11 +58,12 @@ Here are some ideas to get you started:
     <img src="https://cultofthepartyparrot.com/parrots/hd/mergeconflictparrot.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/maskparrot.gif" width="25" height="25"/>
 </div>
+-->
 
 ---
 
 <p align="center">
-  ✨ 🔭 :octocat: 🔭 ✨
+  <!--✨ 🔭 :octocat: 🔭 ✨-->
   </br>
   <img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&center=true&vCenter=true&multiline=true&lines=I'm+currently+learning;Unity+%2F+HTML+%2F+CSS" width="460" height="80"></a>
 </p>

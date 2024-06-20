@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![GitHub Badge](https://img.shields.io/github/followers/ShuninYu?style=social)](https://github.com/ShuninYu?tab=followers)
-<!--[![Donate Badge](https://img.shields.io/badge/Donate-Buy%20me%20a%20coffee-yellowgreen.svg)](https://www.buymeacoffee.com/shuninyu)--!>
 
 ---
 - 👋 Hi, I’m @ShuninYu

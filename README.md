@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 [我的博客 My Blog](https://blog.shuninyu.fun)
 ---
-[我的个人网站 My Website](https://www.shuninyu.fun)
+[我的网站 My Website](https://www.shuninyu.fun)
 ---
 
 <!--

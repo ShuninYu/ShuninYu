@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 ---
 - 👋 Hi, I’m @ShuninYu
 
-[我的博客 My Blog](https://blog.shuninyu.fun)
+[我的网站 My Website](https://www.shuninyu.fun)
 ---
-[我的网站 My Website（重写中 Remaking）](https://www.shuninyu.fun)
+[我的博客 My Blog](https://blog.shuninyu.fun)
 ---
